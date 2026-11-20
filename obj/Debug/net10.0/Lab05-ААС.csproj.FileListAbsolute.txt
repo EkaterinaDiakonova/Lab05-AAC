@@ -1,0 +1,14 @@
+C:\Users\yekat\Documents\Lab05-ААС\bin\Debug\net10.0\Lab05-ААС.exe
+C:\Users\yekat\Documents\Lab05-ААС\bin\Debug\net10.0\Lab05-ААС.deps.json
+C:\Users\yekat\Documents\Lab05-ААС\bin\Debug\net10.0\Lab05-ААС.runtimeconfig.json
+C:\Users\yekat\Documents\Lab05-ААС\bin\Debug\net10.0\Lab05-ААС.dll
+C:\Users\yekat\Documents\Lab05-ААС\bin\Debug\net10.0\Lab05-ААС.pdb
+C:\Users\yekat\Documents\Lab05-ААС\obj\Debug\net10.0\Lab05-ААС.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yekat\Documents\Lab05-ААС\obj\Debug\net10.0\Lab05-ААС.AssemblyInfoInputs.cache
+C:\Users\yekat\Documents\Lab05-ААС\obj\Debug\net10.0\Lab05-ААС.AssemblyInfo.cs
+C:\Users\yekat\Documents\Lab05-ААС\obj\Debug\net10.0\Lab05-ААС.csproj.CoreCompileInputs.cache
+C:\Users\yekat\Documents\Lab05-ААС\obj\Debug\net10.0\Lab05-ААС.dll
+C:\Users\yekat\Documents\Lab05-ААС\obj\Debug\net10.0\refint\Lab05-ААС.dll
+C:\Users\yekat\Documents\Lab05-ААС\obj\Debug\net10.0\Lab05-ААС.pdb
+C:\Users\yekat\Documents\Lab05-ААС\obj\Debug\net10.0\Lab05-ААС.genruntimeconfig.cache
+C:\Users\yekat\Documents\Lab05-ААС\obj\Debug\net10.0\ref\Lab05-ААС.dll
